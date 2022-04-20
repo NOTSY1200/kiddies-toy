@@ -1,2 +1,1 @@
-# janken
-rock,scissors,papers
+#Source codes for My programming practice
